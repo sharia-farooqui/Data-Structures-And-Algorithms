@@ -1,0 +1,4 @@
+1. nextInt() is a method of Scanner Class.
+2. The nextInt() method, reads the next integer value from the console into the specified variable.
+3. A number cannot completely divide a number smaller than itself completely.
+4. The 'return' keyword (a) returns whatever is to be returned (b) breaks the execution of program.
