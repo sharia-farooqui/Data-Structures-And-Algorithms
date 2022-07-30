@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Subsequences {
+public class Subsets {
     public static void printSubsequence(int[] arr, int idx, ArrayList<Integer>list){
         if(idx==arr.length){
             if(list.size()>0){
