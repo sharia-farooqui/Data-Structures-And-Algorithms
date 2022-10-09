@@ -10,10 +10,5 @@ public class Main {
         // list.insertLastWTail(76);
         // list.insert(100, 3);
         // System.out.println(list.deleteLast());
-
-        list.inser
-
-        list.delete(100);
-        list.display();
     }
 }
